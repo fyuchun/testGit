@@ -12,4 +12,8 @@ public class GitHubTest {
 		
 		
 	}
+	
+	public void sayHello(){
+		System.out.println("here");
+	}
 }
